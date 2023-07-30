@@ -37,9 +37,9 @@ We welcome your participation to present your research findings, interesting ide
 
 **Jul. 1, 2023         Open for abstract submission and registration**
 
-**Jul. 31, 2023        Deadline for abstract submission and registration**
+**Aug. 21, 2023 (updated)       Deadline for abstract submission and registration**
 
-**Aug. 21, 2023        Announcement of the program**
+**Sep. 11, 2023 (updated)        Announcement of the program**
 
 **Oct. 22, 2023        Conference Reception**
 
