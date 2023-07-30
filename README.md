@@ -32,15 +32,15 @@ We welcome your participation to present your research findings, interesting ide
 #
 ### Key date
 
-**Jul. 1, 2023         Open for abstract submission and registration**
+Jul. 1, 2023         Open for abstract submission and registration**
 
 **Aug. 21, 2023 (updated)       Deadline for abstract submission and registration**
 
-**Sep. 11, 2023 (updated)        Announcement of the program**
+**Sep. 15, 2023 (updated)        Announcement of the program**
 
-**Oct. 22, 2023        Conference Reception**
+Oct. 22, 2023        Conference Reception**
 
-**Oct. 23. 2023        Official Start of the Conference**
+Oct. 23. 2023        Official Start of the Conference**
 
 # Go to Page for
 ###  [Organizing Committees](https://github.com/csj607/12thprcsa/blob/main/Pages/Organizing_Committees.md)
