@@ -44,4 +44,4 @@ We welcome your participation to present your research findings, interesting ide
 
 # Go to 
 ###  [Registration](https://github.com/csj607/12thprcsa/blob/main/Regstration.md)
-###  [Organizing Committees](https://github.com/csj607/12thprcsa/blob/main/Organizing_Committees)
+###  [Organizing Committees](https://github.com/csj607/12thprcsa/blob/main/Organizing_Committees.md)
