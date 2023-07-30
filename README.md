@@ -6,16 +6,16 @@ This page is a simple mirror webpage for 12th Pacific Rim Conference on Stellar 
 Here, the link to the original website is https://12thprcsa.weebly.com/
 
 
-# Go to Page for
+## Go to Page for
 * ###  [Organizing Committees](https://github.com/csj607/12thprcsa/blob/main/Pages/Organizing_Committees.md)
-###  [Registration](https://github.com/csj607/12thprcsa/blob/main/Pages/Regstration.md)
-###  [Participants](https://github.com/csj607/12thprcsa/blob/main/Pages/Participants.md)
-###  [Program](https://github.com/csj607/12thprcsa/blob/main/Pages/Program.md)
-###  [Venue](https://github.com/csj607/12thprcsa/blob/main/Pages/Venues.md)
-###  [Tour](https://github.com/csj607/12thprcsa/blob/main/Pages/Tour.md)
-###  [Travel Information](https://github.com/csj607/12thprcsa/blob/main/Pages/Travel_Information.md)
-###  [Accomodation](https://github.com/csj607/12thprcsa/blob/main/Pages/Accomodation.md)
-###  [Contact](https://github.com/csj607/12thprcsa/blob/main/Pages/Contacts.md)
+* ###  [Registration](https://github.com/csj607/12thprcsa/blob/main/Pages/Regstration.md)
+* ###  [Participants](https://github.com/csj607/12thprcsa/blob/main/Pages/Participants.md)
+* ###  [Program](https://github.com/csj607/12thprcsa/blob/main/Pages/Program.md)
+* ###  [Venue](https://github.com/csj607/12thprcsa/blob/main/Pages/Venues.md)
+* ###  [Tour](https://github.com/csj607/12thprcsa/blob/main/Pages/Tour.md)
+* ###  [Travel Information](https://github.com/csj607/12thprcsa/blob/main/Pages/Travel_Information.md)
+* ###  [Accomodation](https://github.com/csj607/12thprcsa/blob/main/Pages/Accomodation.md)
+* ###  [Contact](https://github.com/csj607/12thprcsa/blob/main/Pages/Contacts.md)
 
 #
 
@@ -25,21 +25,21 @@ This conference is the 12th in the Pacific Rim Conference Series on Stellar Astr
 
 This conference will cover a broad range of topics, including the following but not limited to
 
-Binary Stars
+* Binary Stars
 
-Star Formation
+* Star Formation
 
-Stellar Atmosphere and Evolution
+* Stellar Atmosphere and Evolution
 
-Stellar Systems and Populations
+* Stellar Systems and Populations
 
-Extrasolar Planets
+* Extrasolar Planets
 
-Planetary Nebulae and Symbiotic Stars
+* Planetary Nebulae and Symbiotic Stars
 
-Compact Objects and High Energy Phenomena
+* Compact Objects and High Energy Phenomena
 
-Stellar Transients​
+* Stellar Transients​
 
 We welcome your participation to present your research findings, interesting ideas and proposal for future collaborations.
 
