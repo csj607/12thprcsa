@@ -4,7 +4,6 @@ Astronomers with PhD 270 USD + 30 USD (for banquet) + 50 USD (tour)
 Students 200 USD + 20 USD(for banquet) + 30 USD (tour)
 * Payment of the registration fee should be made on the conference day
 
-#
 ### Key date
 
 Jul. 1, 2023         Open for abstract submission and registration**
