@@ -23,14 +23,14 @@ Stellar Transients​
 
 We welcome your participation to present your research findings, interesting ideas and proposal for future collaborations.
 
-** Key date
+**Key date**
 
-Jul. 1, 2023         Open for abstract submission and registration
+**Jul. 1, 2023         Open for abstract submission and registration**
 
-Jul. 31, 2023        Deadline for abstract submission and registration
+**Jul. 31, 2023        Deadline for abstract submission and registration**
 
-Aug. 21, 2023        Announcement of the program
+**Aug. 21, 2023        Announcement of the program**
 
-Oct. 22, 2023        Conference Reception
+**Oct. 22, 2023        Conference Reception**
 
-Oct. 23. 2023        Official Start of the Conference**
+**Oct. 23. 2023        Official Start of the Conference**
