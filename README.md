@@ -42,8 +42,7 @@ We welcome your participation to present your research findings, interesting ide
 
 **Oct. 23. 2023        Official Start of the Conference**
 #
-###  Registration 
-Registration (https://github.com/csj607/12thprcsa/blob/main/Regstration.md)
+###  [Registration] (https://github.com/csj607/12thprcsa/blob/main/Regstration.md)
 
 
 #
