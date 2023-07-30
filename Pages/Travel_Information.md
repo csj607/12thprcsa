@@ -4,6 +4,6 @@
 
 ## ※ The schedule may vary slightly depending on the weather, road conditions, and traffic congestion.
 
-![travel3](https://github.com/csj607/12thprcsa/assets/52664937/ab20312e-d48d-4a97-b016-f)
+![travel3](https://github.com/csj607/12thprcsa/assets/52664937/fa058b88-db94-4b12-a1ff-9e123460a449)
 ![travel4](https://github.com/csj607/12thprcsa/assets/52664937/fb685092-9d55-4a04-935c-29647a48ac4b)
 886c1563676)
