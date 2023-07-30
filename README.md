@@ -26,6 +26,7 @@ Stellar Transients​
 
 We welcome your participation to present your research findings, interesting ideas and proposal for future collaborations.
 
+#
 **Key date**
 
 **Jul. 1, 2023         Open for abstract submission and registration**
