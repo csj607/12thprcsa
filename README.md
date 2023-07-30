@@ -47,7 +47,7 @@ Oct. 23. 2023        Official Start of the Conference**
 ###  [Registration](https://github.com/csj607/12thprcsa/blob/main/Pages/Regstration.md)
 ###  [Participants](https://github.com/csj607/12thprcsa/blob/main/Pages/Participants.md)
 ###  [Program](https://github.com/csj607/12thprcsa/blob/main/Pages/Program.md)
-###  [Venue](https://github.com/csj607/12thprcsa/blob/main/Pages/Venue.md)
+###  [Venue](https://github.com/csj607/12thprcsa/blob/main/Pages/Venues.md)
 ###  [Tour](https://github.com/csj607/12thprcsa/blob/main/Pages/Tour.md)
 ###  [Travel Information](https://github.com/csj607/12thprcsa/blob/main/Pages/Travel_Information.md)
 ###  [Accomodation](https://github.com/csj607/12thprcsa/blob/main/Pages/Accomodation.md)
