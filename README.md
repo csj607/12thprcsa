@@ -3,6 +3,7 @@
 
 #
 **This page is a simple mirror webpage for 12th Pacific Rim Conference on Stellar Astrophysics.**
+
 Here, the link of original website is 
 https://12thprcsa.weebly.com/
 #
