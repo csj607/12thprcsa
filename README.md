@@ -9,7 +9,7 @@ Here, the link to the original website is https://12thprcsa.weebly.com/
 ## Go to Page for
 * ###  [Organizing Committees](https://github.com/csj607/12thprcsa/blob/main/Pages/Organizing_Committees.md)
 * ###  [Registration](https://github.com/csj607/12thprcsa/blob/main/Pages/Regstration.md)
-* ###  [Participants](https://github.com/csj607/12thprcsa/blob/main/Pages/Participants.md)
+* ###  [Participants](https://github.com/csj607/12thprcsa/blob/main/Pages/Participants.pdf)
 * ###  [Program](https://github.com/csj607/12thprcsa/blob/main/Pages/Program.md)
 * ###  [Venue](https://github.com/csj607/12thprcsa/blob/main/Pages/Venues.md)
 * ###  [Tour](https://github.com/csj607/12thprcsa/blob/main/Pages/Tour.md)
