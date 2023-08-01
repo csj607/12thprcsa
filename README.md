@@ -1,5 +1,5 @@
 # 12TH PACIFIC RIM CONFERENCE ON STELLAR ASTROPHYSICS
-## October 23-27, 2023, Sejong University, Seoul, Korea
+## October 23-26, 2023, Sejong University, Seoul, Korea
 
 ###
 This page is a simple mirror webpage for 12th Pacific Rim Conference on Stellar Astrophysics.
